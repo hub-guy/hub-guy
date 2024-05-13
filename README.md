@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hub-guy
 - 👀 I’m interested in ...Math.
-- 🌱 I’m currently learning ...Algebra one and Html.
+- 🌱 I’m currently learning ...Algebra one and Html (on Khan academy).
 - ⚡ Fun fact: ...I'm really smart and fast
 
 <!---
